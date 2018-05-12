@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4845'
     url: http://www.gutenberg.org/2009/agents/4845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34842#Greek-Sculpture--13-A-collection-of-sixteen-pictures-of-Greek-marbles-with-introduction-and-i_
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
 identifiers:
